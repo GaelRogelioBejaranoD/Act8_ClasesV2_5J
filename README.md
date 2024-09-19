@@ -3,9 +3,10 @@
 ##Ejercicio con clases V2
 
 ##Código:
-![image](https://github.com/user-attachments/assets/d8387f3b-fa61-44e4-961a-fb65c966ddca)
+![image](https://github.com/user-attachments/assets/eb7d78c2-3425-4746-b6f9-ab524daf9fcc)
 
 ##Resultado:
-![image](https://github.com/user-attachments/assets/06e7ade5-491e-4892-98ed-68d2afb20ce8)
+![image](https://github.com/user-attachments/assets/00b78f31-62f8-40db-b46a-0e23b7835799)
+
 
 
