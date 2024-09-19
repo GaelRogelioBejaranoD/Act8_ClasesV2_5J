@@ -30,11 +30,11 @@ class Datos:
     def Dikkionario(self):
         print("A continuacion mis cosas favoritas en esta vida (Diccionario): ")
         kciD = {
-        "AFav" : "jim",
-        "CLFav" : "Negro mate",
-        "JFav" : "Minecraft" }
-        for i in kciD:
-            print(kciD[i])
+        "ActividadFav" : "jim",
+        "ColorFav" : "Negro mate",
+        "JuegoFav" : "Minecraft" }
+        for i,i2 in kciD.items():
+            print(i,i2)
                                                 # creacion de objetos
 Roger = Datos("102","1.80")
                                                 # utilizando el objeto
